@@ -6,9 +6,7 @@ import ma.glasnost.orika.MapperFacade;
 import ma.glasnost.orika.MapperFactory;
 import ma.glasnost.orika.impl.DefaultMapperFactory;
 
-/**
- * Created by bl05381 on 2016-11-23.
- */
+
 public class OrikaHelper {
 
     private MapperFacade mapperFacade;
